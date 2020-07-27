@@ -1,4 +1,27 @@
 ---
-layout: home
-author_profile: true
+
+layout: single
+author-profile: true
+excerpt: "This is Asif Haider, Welcome to my official website! Explore the blogs written and projects done by me."
+header:
+  overlay_image: /assets/img/home.jpg
+
 ---
+
+<!-- <h1 align = "center">
+	Blogs
+</h1>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% for post in posts %}
+    {% include archive-single.html type=page.entries_layout %}
+  {% endfor %}
+</div> -->
