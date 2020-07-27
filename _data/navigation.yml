@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: " "
+    url: "/"
   - title: "About Me"
-    url: 
+    url: "/_pages/about/"
   - title: "Blogs"
-    url:
+    url: "/"
   - title: "Projects"
     url: /_pages/projects/
   - title: "Gallery"
-    url:
+    url: /_pages/gallery/
   - title: "Contact"
-    url:
+    url: /_pages/contact/
 
 
   # - title: "About"
