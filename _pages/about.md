@@ -1,6 +1,10 @@
 ---
 layout: single
 title: About Me
+excerpt: "Here is who I am, what I dream and what I do!"
+header:
+  overlay_image: /assets/img/About.jpg
+
 ---
 
 <p>Welcome to my site! I am Asif Haider, from Dhaka, Bangladesh. Currently, I am an undergraduate student studying at Bangladesh University of Engineering and Technology, focusing on Computer Science and Engineering!</p>
