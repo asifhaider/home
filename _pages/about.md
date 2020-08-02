@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About Me
+author_profile: true
 excerpt: "Here is who I am, what I dream and what I do!"
 header:
   overlay_image: /assets/img/About.jpg

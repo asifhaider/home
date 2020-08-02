@@ -7,7 +7,7 @@ main:
   - title: "Blogs"
     url: /_posts/
   - title: "Projects"
-    url: /_pages/projects/
+    url: /_pages/portfolio/
   - title: "Gallery"
     url: /_pages/gallery/
   - title: "Contact"

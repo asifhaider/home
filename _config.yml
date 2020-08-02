@@ -270,6 +270,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  portfolio:
+    output: true
+    parmalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -291,6 +296,16 @@ defaults:
       path: ""
       type: pages
     values:
+      layout: single
+      author_profile: true
+      share: true
+
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values: 
       layout: single
       author_profile: true
       share: true

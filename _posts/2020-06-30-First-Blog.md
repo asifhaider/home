@@ -1,7 +1,7 @@
 ---
 
 layout: single
-
+title: ছেঁড়া মানচিত্র
 ---
 
 <p>

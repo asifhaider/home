@@ -1,7 +1,7 @@
 ---
 
 layout: single
-
+title: গাঁজাখুরি কাব্য
 ---
 
 
