@@ -2,6 +2,7 @@
 
 title: আগে কী সুন্দর দিন কাটাইতাম!
 layout: single
+exerpt: 
 
 ---
 
