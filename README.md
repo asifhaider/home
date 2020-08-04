@@ -1,3 +1,3 @@
-# Beta-BlogFolio
+# My Website
 
-Check the site [here](https://asifelhan.github.io/Beta-BlogFolio/)
+Check the site [here](https://asifelhan.github.io/My-Website/)
