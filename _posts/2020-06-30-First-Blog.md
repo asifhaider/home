@@ -2,6 +2,9 @@
 
 layout: single
 title: ছেঁড়া মানচিত্র
+header: 
+  image: assets/img/victory.jpg
+
 ---
 
 <p>

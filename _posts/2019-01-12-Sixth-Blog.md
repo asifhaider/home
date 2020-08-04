@@ -1,7 +1,10 @@
 ---
 
-layout: single
+layout: single 
 title: যে ১০টি সহশিক্ষা কার্যক্রম বদলে দিতে পারে তোমার শিক্ষাজীবন
+header:
+  image: assets/img/10ms1.jpg
+
 ---
 
 

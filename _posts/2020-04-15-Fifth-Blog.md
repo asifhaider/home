@@ -1,7 +1,10 @@
 ---
 
-layout: single
+layout: single 
 title: গাঁজাখুরি কাব্য
+header:
+  image: assets/img/dark.jpeg
+
 ---
 
 

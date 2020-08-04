@@ -2,6 +2,8 @@
 
 layout: single
 title: উড়ে যায়
+header: 
+  image: assets/img/rain.jpg
 
 ---
 

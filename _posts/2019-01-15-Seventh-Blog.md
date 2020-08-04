@@ -1,7 +1,10 @@
 ---
 
-layout: single
+layout: single 
 title: চলো শর্টফিল্ম বানাই
+header:
+  image: assets/img/10ms2.jpg
+
 ---
 
 
