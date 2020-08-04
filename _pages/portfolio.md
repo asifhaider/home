@@ -7,6 +7,7 @@ collection: portfolio
 classes: wide
 parmalink: /portfolio/
 author_profile: true
+entries_layout: grid
 
 ---
 

@@ -4,6 +4,11 @@ layout: single
 title: Tour De Cox's Bazar
 header: 
   image: assets/img/sea.jpg
+read_time: true
+comments: true
+share: true
+related: true
+show_date: true
 
 ---
 

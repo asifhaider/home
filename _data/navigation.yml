@@ -2,16 +2,22 @@
 main:
   - title: "Home"
     url: /
+    description: "HomePage"
   - title: "About Me"
     url: /_pages/about/
+    description: "My Introduction"
   - title: "Blogs"
     url: /_posts/
+    description: "My Write-Ups"
   - title: "Projects"
     url: /_pages/portfolio/
+    description: "All my Projects"
   - title: "Gallery"
     url: /_pages/gallery/
+    description: "Walk-through Memory-Lane"
   - title: "Contact"
     url: /contact/
+    description: "Reach out to me"
 
 
   # - title: "About"

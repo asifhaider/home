@@ -4,6 +4,11 @@ layout: single
 title: ছেঁড়া মানচিত্র
 header: 
   image: assets/img/victory.jpg
+read_time: true
+comments: true
+share: true
+related: true
+show_date: true
 
 ---
 

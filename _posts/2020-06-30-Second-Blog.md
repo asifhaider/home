@@ -4,6 +4,12 @@ layout: single
 title: উড়ে যায়
 header: 
   image: assets/img/rain.jpg
+read_time: true
+comments: true
+share: true
+related: true
+show_date: true
+
 
 ---
 

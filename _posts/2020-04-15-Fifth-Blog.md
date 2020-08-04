@@ -4,6 +4,11 @@ layout: single
 title: গাঁজাখুরি কাব্য
 header:
   image: assets/img/dark.jpeg
+read_time: true
+comments: true
+share: true
+related: true
+show_date: true
 
 ---
 

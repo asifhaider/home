@@ -4,6 +4,11 @@ layout: single
 title: চলো শর্টফিল্ম বানাই
 header:
   image: assets/img/10ms2.jpg
+read_time: true
+comments: true
+share: true
+related: true
+show_date: true
 
 ---
 
