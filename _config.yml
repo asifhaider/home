@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "Official site of Asif Haider" # site tagline that appears below site title in masthead
 name                     : "Asif Haider"
 description              : "My Blog and Portfolio Site"
-url                      : "https://asifelhan.github.io/My-Website/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://asifhaider.github.io/home/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/Beta-BlogFolio" # the subpath of your site, e.g. "/blog"
-repository               : "asifelhan/My-Website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "asifhaider/home" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/img/meh.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -85,7 +85,7 @@ social:
     - "https://www.facebook.com/asif.elhan/"
     - "https://www.linkedin.com/in/asif-haider-1805112/"
     - "https://www.instagram.com/asifelhan/"
-    - "https://github.com/asifelhan"
+    - "https://github.com/asifhaider"
 
 # Analytics
 analytics:
@@ -117,7 +117,7 @@ author:
       url: "https://www.facebook.com/asif.elhan/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/asifelhan"
+      url: "https://github.com/asifhaider"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/asifelhan/"
@@ -139,7 +139,7 @@ footer:
       url: "https://www.facebook.com/asif.elhan/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/asifelhan"
+      url: "https://github.com/asifhaider"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/asifelhan/"
