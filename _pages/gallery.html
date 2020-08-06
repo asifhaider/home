@@ -1,0 +1,65 @@
+---
+
+layout: single
+title: MyGallery
+
+---
+
+
+<head>
+
+	<link href="{{ site.baseurl }}/assets/css/lightgallery.css" rel="stylesheet">	
+    
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/justifiedGallery.css">
+
+</head>
+<body>
+
+	<div id="lightgallery" id = "mygallery">
+    	<a href="{{ site.baseurl }}/assets/img/1.jpg">
+        	<img src="{{ site.baseurl }}/assets/img/1.jpg" width="400px" height = "250px">
+    	</a>
+    	<a href="{{ site.baseurl }}/assets/img/3.jpg">
+        	<img src="{{ site.baseurl }}/assets/img/3.jpg" width="400px" height = "250px">
+    	</a>
+        <a href="{{ site.baseurl }}/assets/img/2.jpg">
+            <img src="{{ site.baseurl }}/assets/img/2.jpg" width="400px" height = "250px">
+        </a>
+        <a href="{{ site.baseurl }}/assets/img/4.jpg">
+            <img src="{{ site.baseurl }}/assets/img/4.jpg" width="400px" height = "250px">
+        </a>
+        <a href="{{ site.baseurl }}/assets/img/5.jpg">
+            <img src="{{ site.baseurl }}/assets/img/5.jpg" width="400px" height = "250px">
+        </a>
+
+    
+   	</div>
+
+   	<!-- <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
+     -->  
+
+
+
+       <script src="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/js/lightgallery.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-pager.js/master/dist/lg-pager.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-autoplay.js/master/dist/lg-autoplay.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-fullscreen.js/master/dist/lg-fullscreen.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-zoom.js/master/dist/lg-zoom.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-hash.js/master/dist/lg-hash.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-share.js/master/dist/lg-share.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-thumbnail.js/master/dist/lg-thumbnail.js"></script>
+
+
+        <script src="{{ site.baseurl }}/assets/js/jquery.justifiedGallery.js"></script>
+
+
+        <script>
+            lightGallery(document.getElementById('lightgallery'));
+        </script>
+
+        <script type="text/javascript">
+            $("#mygallery").justifiedGallery();
+        </script>
+        
+
+</body>

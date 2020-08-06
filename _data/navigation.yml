@@ -13,7 +13,7 @@ main:
     url: /_pages/portfolio/
     description: "All my Projects"
   - title: "Gallery"
-    url: /gallery/
+    url: /_pages/gallery/
     description: "Walk-through Memory-Lane"
   - title: "Contact"
     url: /contact/
