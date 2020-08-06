@@ -1,0 +1,51 @@
+<head>
+    <link type="text/css" rel="stylesheet" href="/assets/lightgallery/src/css/lightgallery.css" /> 
+</head>
+
+<body>
+	<!-- <script src="js/lightgallery.min.js"></script>
+
+
+	<script src="lg-autoplay.min.js"></script>
+	<script src="lg-fullscreen.min.js"></script>
+	<script src="lg-hash.min.js"></script>
+	<script src="lg-pager.min.js"></script>
+	<script src="lg-share.min.js"></script>
+	<script src="lg-thumbnail.min.js"></script>
+	<script src="lg-zoom.min.js"></script>
+	<script src="lg-video.min.js"></script>
+ -->
+
+
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/dist/js/lightgallery.min.js -%}"></script>
+
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-autoplay.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-fullscreen.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-hash.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-pager.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-share.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-thumbnail.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-video.min.js -%}"></script>
+ 	<script src="{{ site.baseurl }}{%- link assets/lightgallery/modules/lg-zoom.min.js -%}"></script>
+
+
+
+
+
+
+	<div id="lightgallery">
+    	<a href="/assets/img/1.jpg">
+      		<img src="/assets/img/1.jpg" />
+  		</a>
+  		<a href="/assets/img/2.jpg">
+      		<img src="/assets/img/2.jpg" />
+ 		 </a>
+	</div>
+
+	<script type="text/javascript">
+    	$(document).ready(function() {
+        	$("#lightgallery").lightGallery(); 
+    	});
+	</script>
+
+</body>
