@@ -3,7 +3,7 @@
 layout: single
 title: ছেঁড়া মানচিত্র
 header: 
-  image: assets/img/victory.jpg
+  image: assets/img/blogs/victory.jpg
 read_time: true
 comments: true
 share: true

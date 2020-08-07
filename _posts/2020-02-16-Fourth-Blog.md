@@ -3,7 +3,7 @@
 layout: single
 title: Tour De Cox's Bazar
 header: 
-  image: assets/img/sea.jpg
+  image: assets/img/blogs/sea.jpg
 read_time: true
 comments: true
 share: true

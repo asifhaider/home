@@ -3,7 +3,7 @@
 layout: single
 title: উড়ে যায়
 header: 
-  image: assets/img/rain.jpg
+  image: assets/img/blogs/rain.jpg
 read_time: true
 comments: true
 share: true

@@ -2,7 +2,7 @@
 layout: single
 title: আগে কী সুন্দর দিন কাটাইতাম!
 header: 
-  image: /assets/img/ndc.jpg
+  image: assets/img/blogs/ndc.jpg
 read_time: true
 comments: true
 share: true
