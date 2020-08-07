@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/img/meh.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 250
+words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -108,7 +108,7 @@ author:
       url: "mailto: elhanasif8@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://asifelhan.github.io/Beta-BlogFolio/"
+      url: "https://asifhaider.github.io/home/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/asif-haider-1805112/"
@@ -130,7 +130,7 @@ footer:
       url: "mailto: elhanasif8@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://asifelhan.github.io/Beta-BlogFolio/"
+      url: "https://asifhaider.github.io/home/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/asif-haider-1805112/"
