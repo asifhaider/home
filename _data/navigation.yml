@@ -15,6 +15,9 @@ main:
   - title: "Gallery"
     url: /_pages/gallery/
     description: "Walk-through Memory-Lane"
+  - title: "Resume"
+    url: /_pages/resume/
+    description: "Education, Work Experience and Achievements"
   - title: "Contact"
     url: /contact/
     description: "Reach out to me"

@@ -8,7 +8,7 @@ classes: wide
 parmalink: /portfolio/
 author_profile: true
 header: 
-  overlay_image: assets/img/github2.jpg
+  overlay_image: assets/img/git5.jpg
 excerpt: Take a look at the projects I worked on! 
 
 ---
