@@ -16,7 +16,7 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2: 
-  - image_path: /assets/img/gallery/varsity/11.jpg
+  - image_path: /assets/img/gallery/varsity/14.jpg
     title: "Video Album"
     excerpt: "Enjoy my video clips from various Music, Recitation performances and others!"
     url: "https://asifhaider.github.io/home/_pages/videos"
