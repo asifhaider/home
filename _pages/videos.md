@@ -10,4 +10,4 @@ header:
 
 # Return Zero: স্রোতস্বিনী Cover
 	
-{% include video id = "watch?v=FNocVHmK5Hc" provider = "youtube" %}
+{% include video id = "FNocVHmK5Hc" provider = "youtube" %}
