@@ -14,11 +14,11 @@ header:
 > 
 
 # Return Zero: Reception Performance 
->> অন্ধ (Black)-Cover
+> অন্ধ (Black)-Cover
 >
->> চাইতেই পারো (Aurthohin)- Cover
+> চাইতেই পারো (Aurthohin)- Cover
 >
->> আমার পৃথিবী (Black)- Cover
+> আমার পৃথিবী (Black)- Cover
 >
 > {% include video id = "Ka3i0TXXvTI" provider = "youtube" %}
 >
