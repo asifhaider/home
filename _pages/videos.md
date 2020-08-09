@@ -9,25 +9,25 @@ header:
 ---
 
 # Return Zero: স্রোতস্বিনী Cover
-<br>	
-{% include video id = "FNocVHmK5Hc" provider = "youtube" %}
-<br>
+>	
+> {% include video id = "FNocVHmK5Hc" provider = "youtube" %}
+> 
 
 # Return Zero: Reception Performance 
-> Ondho (Black)-Cover
-> Chaitei Paro (Aurthohin)- Cover
-> Amar Prithibi (Black)- Cover
-
-<br>
-{% include video id = "Ka3i0TXXvTI" provider = "youtube" %}
-<br>
+>> অন্ধ (Black)-Cover
+>
+>> চাইতেই পারো (Aurthohin)- Cover
+>
+>> আমার পৃথিবী (Black)- Cover
+>
+> {% include video id = "Ka3i0TXXvTI" provider = "youtube" %}
+>
 
 # আবৃত্তি ডুয়েটঃ
 > কবিতাঃ প্রেম- শুভ দাশগুপ্ত
-
-<br>
-{% include video id = "9fPj9HrUJHg" provider = "youtube" %}
-<br>
+>
+>{% include video id = "9fPj9HrUJHg" provider = "youtube" %}
+>
 
 
 
