@@ -79,7 +79,7 @@ header:
 >
 >	- HTML5, CSS3, JavaScript
 >	- Bootstrap 4
->	- Jekyll, GitHub Pages
+>	- Ruby, GitHub Pages
 >
 > Software Development
 >
