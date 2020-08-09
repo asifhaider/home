@@ -11,15 +11,15 @@ feature_row:
   - image_path: /assets/img/gallery/tours/23.jpg
     title: "Photo Album"
     excerpt: "Album of my and friends' photos from tours, hangouts, functions."
-    url: "https://asifhaider.github.io/home/_pages/photos.html/"
+    url: "https://asifhaider.github.io/home/_pages/photos"
     btn_label: "Photos"
     btn_class: "btn--primary"
 
 feature_row2: 
   - image_path: /assets/img/gallery/varsity/11.jpg
-    title: "Performance Videos"
+    title: "Video Album"
     excerpt: "Enjoy my video clips from various Music, Recitation performances and others!"
-    url: "https://asifhaider.github.io/home/_pages/videos.html/"
+    url: "https://asifhaider.github.io/home/_pages/videos"
     btn_label: "Videos"
     btn_class: "btn--primary"
 
