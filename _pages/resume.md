@@ -39,8 +39,7 @@ header:
 	- BUET Systems Analysis Design and Development Community 
 	- Kantho: BUET
 	- Murchona: BUET
-	- BUET Career Club 
-	- BUET Debating Club
+	- BUET Career Club
 >
 > ## Notre Dame College
 >
