@@ -9,6 +9,9 @@ comments: true
 share: true
 related: true
 show_date: true
+toc: true
+toc_label: Table of Content
+toc_ico: "cog"
 
 ---
 See originally published content [here](https://www.10minuteschool.com/blog/%e0%a6%9a%e0%a6%b2%e0%a7%8b-%e0%a6%b6%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%ab%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%ae-%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%87-%e0%a6%ae%e0%a6%be%e0%a6%a5%e0%a6%be/)
