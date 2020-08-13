@@ -53,7 +53,7 @@ header:
 >
 > Secondary School Certificate (SSC), Science (2006-2015)
 >
->	- Ideal Science and Tecgnology Aiming Research Council (ISTARC)
+>	- Ideal Science and Technology Aiming Research Council (ISTARC)
 
 
 # <span style = "color: cyan"> Volunteer Experience: </span>
