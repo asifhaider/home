@@ -78,12 +78,12 @@ header:
 > Web Development
 >
 >	- HTML5, CSS3, JavaScript
->	- Bootstrap 4
->	- Ruby, GitHub Pages
+>	- Bootstrap Studio
+>	- Jekyll, GitHub Pages
 >
 > Software Development
 >
->	- Java, Python
+>	- Java, Python3
 >	- SQLite
 >
 > Competitive Programming
@@ -108,7 +108,7 @@ header:
 # <span style = "color: cyan"> Honors & Awards: </span>
 
 > 	- Hult Prize 2020 On Campus (Finalist)
-	- অন্তঃবুয়েট বিজয় দিবস আবৃত্তি প্রতিযোগিতা ২০১৯ ২য় পুরষ্কার)
+	- অন্তঃবুয়েট বিজয় দিবস আবৃত্তি প্রতিযোগিতা ২০১৯ (২য় পুরষ্কার)
 	- ISCEA Ptak Prize 2019 (70% Scholarship Winner)
 	- জাতীয় ভাষা প্রতিযোগ-২০১৮ (Champion)
 	- CP TV Quiz Competition (Gold Medal)
