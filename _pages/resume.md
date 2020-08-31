@@ -72,11 +72,11 @@ header:
 > IBM Data Science Professional Certificate (July 2020)
 >
 > Certified Supply Chain Analyst- CSCA (2019)
->>	- ISCEA: International Supply Chain Education Alliance
+>	- ISCEA: International Supply Chain Education Alliance
 	- Score: 87/100
 >
 > Honorable Mention for Distinction in Co-Curricular Activities (2018)
->>	- Notre Dame College
+>	- Notre Dame College
 
 # <span style = "color: cyan"> Skills: </span> 
 
