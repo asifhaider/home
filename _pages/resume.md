@@ -14,6 +14,10 @@ header:
 
 # <span style = "color: cyan"> Work Experience: </span>
 
+> ## Kalke
+>
+> Campus Ambassador, Tech Department (Aug 2020 - Present)
+>
 > ## UDVASH 
 >
 > Math Instructor (Nov 2018 - Present)
@@ -35,7 +39,7 @@ header:
 >
 > Undergraduate, Computer Science and Engineering (2019-Present)
 >
->	- IEEE Computer Society, BUET
+>	- IEEE Computer Society, BUET Student Branch
 	- BUET Systems Analysis Design and Development Community 
 	- Kantho: BUET
 	- Murchona: BUET
@@ -66,8 +70,8 @@ header:
 > IBM Data Science Professional Certificate (July 2020)
 >
 > Certified Supply Chain Analyst- CSCA (2019)
-	- ISCEA: International Supply Chain Education Alliance
-	- Score: 87/100
+>	- ISCEA: International Supply Chain Education Alliance
+>	- Score: 87/100
 >
 > Honorable Mention for Distinction in Co-Curricular Activities (2018)
 	- Notre Dame College
@@ -76,19 +80,20 @@ header:
 
 > Web Development
 >
->	- HTML5, CSS3, JavaScript
->	- Bootstrap Studio
->	- Jekyll, GitHub Pages
+>	- HTML5, CSS3, JavaScript, Bootstrap4
+>	- Python (Flask, Django)
+>	- SQLite, PostgreSQL
+>	- Git, Heroku
 >
-> Software Development
+> Software/App Development
 >
->	- Java, Python3
->	- SQLite
+>	- Java, JavaFX
+>	- Android Studio
 >
 > Competitive Programming
 >
-	- C, C++
-	- Algorithms, Data Structure
+>	- C, C++
+>	- Algorithms, Data Structure
 >
 > AutoCAD
 >
