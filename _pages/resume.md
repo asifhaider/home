@@ -72,6 +72,7 @@ header:
 > IBM Data Science Professional Certificate (July 2020)
 >
 > Certified Supply Chain Analyst- CSCA (2019)
+>
 >	- ISCEA: International Supply Chain Education Alliance
 	- Score: 87/100
 >
