@@ -61,20 +61,22 @@ header:
 
 # <span style = "color: cyan"> Volunteer Experience: </span>
 
->	- SemiColon: Content Writer (2020 - Present)
-	- Humans of NDC: Content Writer, Editor (2018 - Present)
-	- Children's Film Society Bangladesh: Delegate, 5th International Children's Film Festival (2012) 
+> SemiColon: Content Writer (2020 - Present)
+>
+> Humans of NDC: Content Writer, Editor (2018 - Present)
+>
+> Children's Film Society Bangladesh: Delegate, 5th International Children's Film Festival (2012) 
 
 # <span style = "color: cyan"> Certifications: </span> 
 
 > IBM Data Science Professional Certificate (July 2020)
 >
 > Certified Supply Chain Analyst- CSCA (2019)
->	- ISCEA: International Supply Chain Education Alliance
->	- Score: 87/100
+>>	- ISCEA: International Supply Chain Education Alliance
+	- Score: 87/100
 >
 > Honorable Mention for Distinction in Co-Curricular Activities (2018)
-	- Notre Dame College
+>>	- Notre Dame College
 
 # <span style = "color: cyan"> Skills: </span> 
 
