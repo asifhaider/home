@@ -14,10 +14,6 @@ header:
 
 # <span style = "color: cyan"> Work Experience: </span>
 
-> ## Kalke
->
-> Campus Ambassador, Tech Department (Aug 2020 - Present)
->
 > ## UDVASH 
 >
 > Math Instructor (Nov 2018 - Present)
